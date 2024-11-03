@@ -1,0 +1,44 @@
+﻿  dod.cpp
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\dod.cpp(9,13): error C2084: function 'void nsDod::dod(void)' already has a body
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\dod.h(9,13):
+      see previous definition of 'nsDod::dod'
+  
+  sum.cpp
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\sum.cpp(12,13): error C2084: function 'void nsSum::sum(void)' already has a body
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\sum.h(12,13):
+      see previous definition of 'nsSum::sum'
+  
+  var.cpp
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(8,9): error C2086: 'int nsVar::n': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(8,9):
+      see declaration of 'nsVar::n'
+  
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(9,12): error C2086: 'double nsVar::x': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(9,12):
+      see declaration of 'nsVar::x'
+  
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(9,15): error C2086: 'double nsVar::x_p': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(9,15):
+      see declaration of 'nsVar::x_p'
+  
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(9,20): error C2086: 'double nsVar::x_k': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(9,20):
+      see declaration of 'nsVar::x_k'
+  
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(9,25): error C2086: 'double nsVar::dx': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(9,25):
+      see declaration of 'nsVar::dx'
+  
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(9,29): error C2086: 'double nsVar::e': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(9,29):
+      see declaration of 'nsVar::e'
+  
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(9,32): error C2086: 'double nsVar::a': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(9,32):
+      see declaration of 'nsVar::a'
+  
+C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.cpp(9,35): error C2086: 'double nsVar::s': redefinition
+      C:\Users\Олександр\source\repos\Lab9.1\Lab9.1\var.h(9,35):
+      see declaration of 'nsVar::s'
+  
+  Generating Code...
